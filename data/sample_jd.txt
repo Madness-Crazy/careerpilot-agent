@@ -1,0 +1,6 @@
+﻿AI Agent Engineer
+
+Responsibilities:
+- Build AI agent workflows with Python and FastAPI.
+- Design RAG pipelines and tool-calling systems.
+- Work with PostgreSQL, Docker, and structured LLM outputs.

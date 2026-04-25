@@ -1,0 +1,37 @@
+{
+  "role": "AI Agent 工程师",
+  "required_skills": [
+    "Python",
+    "FastAPI",
+    "Function Calling",
+    "LangGraph",
+    "RAG",
+    "Eval",
+    "Logging",
+    "Cost",
+    "Latency"
+  ],
+  "bonus_skills": [
+    "MCP",
+    "多模态",
+    "本地模型部署"
+  ],
+  "engineering_skills": [
+    "Python",
+    "FastAPI"
+  ],
+  "llm_skills": [],
+  "agent_skills": [
+    "Function Calling",
+    "LangGraph"
+  ],
+  "rag_skills": [
+    "RAG"
+  ],
+  "production_skills": [
+    "Eval",
+    "Logging",
+    "Cost",
+    "Latency"
+  ]
+}

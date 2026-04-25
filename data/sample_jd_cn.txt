@@ -1,0 +1,10 @@
+﻿招聘 AI Agent 工程师
+
+岗位职责：
+- 使用 Python 和 FastAPI 构建后端服务。
+- 设计 RAG 检索增强问答流程。
+- 实现 Function Calling 和 LangGraph 工作流。
+- 关注 Logging、Latency、Cost 和 Eval 指标。
+
+加分项：
+- 有多模态、MCP 或本地模型部署经验。
